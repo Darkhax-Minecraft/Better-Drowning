@@ -27,7 +27,7 @@ ${mod_description}
     ordering="NONE"
     side="SERVER"
     
-[[dependencies.darkutilities]]
+[[dependencies.betterdrowning]]
     modId="bookshelf"
     mandatory=true
     versionRange="[5.4,)"
